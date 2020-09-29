@@ -1,0 +1,15 @@
+{
+  "name": "faker-name",
+  "version": "1.0.0",
+  "description": "Pustaka yang berisi nama-nama yang berorientasi Indonesia",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faker",
+    "seeder"
+  ],
+  "author": "Prasetyo Bella Ramadhanu",
+  "license": "MIT"
+}
